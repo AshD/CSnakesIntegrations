@@ -1,0 +1,9 @@
+typing
+wheel
+-f https://download.pytorch.org/whl/cu124
+torch==2.5.1
+transformers
+accelerate
+transformers-stream-generator
+sentencepiece
+pillow

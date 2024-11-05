@@ -1,0 +1,13 @@
+typing
+wheel
+-f https://download.pytorch.org/whl/cu124
+torch==2.5.1
+torch
+transformers
+accelerate
+diffusers 
+protobuf
+sentencepiece
+pillow
+optimum-quanto
+ninja
